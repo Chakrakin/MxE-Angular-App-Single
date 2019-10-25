@@ -1,3 +1,7 @@
+# Start with:
+
+```ng serve --port 4204 --publicHost http://localhost:4204 --disable-host-check```
+
 # SpaInclude
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
